@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Junior Frontend Developer** from Cairo, Egypt, specializing in building modern, responsive web applications with React and Angular. I love bringing ideas to life through clean code and have a good eye for creating appealing user interfaces.
+I'm a passionate **Junior Frontend Developer** from Cairo, Egypt, specializing in building modern, responsive web applications with Angular and React. I love bringing ideas to life through clean code and have a good eye for creating appealing user interfaces.
 
 - 🎓 **Computer Science Graduate** - Modern Academy
 - 🏆 **ITI Graduate** - Information Technology Institute (Open Source Track)
