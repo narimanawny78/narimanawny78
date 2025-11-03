@@ -8,12 +8,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Junior Frontend Developer** from Cairo, Egypt, who loves bringing ideas to life through code and design. I have a special talent for **imagining and creating beautiful UIs** - not from formal design training, but from pure creativity and vision. I believe great interfaces tell stories and create experiences.
+I'm a passionate **Junior Frontend Developer** from Cairo, Egypt, specializing in building modern, responsive web applications with React and Angular. I love bringing ideas to life through clean code and have a good eye for creating appealing user interfaces.
 
 - 🎓 **Computer Science Graduate** - Modern Academy
 - 🏆 **ITI Graduate** - Information Technology Institute (Open Source Track)
 - 💼 **Currently seeking** Frontend Developer opportunities
-- 🎨 **UI Imagination** - I love crafting unique, beautiful interfaces for my projects
+- 🎨 I enjoy creating user interfaces and have a good eye for design
 - 🌱 **Currently mastering** Angular and modern frontend practices
 - 📍 **Based in** Cairo, Egypt
 
@@ -63,11 +63,11 @@ I'm a passionate **Junior Frontend Developer** from Cairo, Egypt, who loves brin
 
 ## 🎯 What Makes Me Different
 
-- 🎨 **UI Imagination** - I don't just code interfaces, I envision them. Every project is an opportunity to create something beautiful and intuitive
-- 🔄 **Full Stack Understanding** - While specializing in frontend, I understand the full picture with Node.js and Laravel experience
-- 🚀 **Modern Frameworks** - Proficient in both React and Angular ecosystems
+- 💪 **Strong Frontend Foundation** - Proficient in modern frameworks like React and Angular with solid JavaScript/TypeScript skills
+- 🔄 **Full Stack Understanding** - Backend experience with Node.js and Laravel gives me a complete development perspective
+- 🎨 **Design-minded Developer** - I have a good eye for UI and enjoy creating interfaces that look great and work smoothly
 - 🤝 **Collaborative Spirit** - Strong teamwork and communication skills honed through ITI's collaborative environment
-- 📚 **Continuous Learner** - Always exploring new technologies and design patterns
+- 📚 **Continuous Learner** - Always exploring new technologies and best practices in frontend development
 
 ## 🌟 Current Focus
 
