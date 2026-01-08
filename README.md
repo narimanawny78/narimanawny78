@@ -1,7 +1,13 @@
 # Hi there, I'm Nariman Awny 👋
-<div align="center"> &nbsp; &nbsp;&nbsp;![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Junior+Frontend+Developer+/Angular;Iti+Open+Source+Graduate;Building+Beautiful+Interfaces) &nbsp; </div>
+
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Junior+Frontend+Developer+/Angular;Iti+Open+Source+Graduate;Building+Beautiful+Interfaces)
+  
+</div>
 
 ## 🚀 About Me
+
 I'm a passionate **Junior Frontend Developer** from Cairo, Egypt, specializing in building modern, responsive web applications with Angular and React. I love bringing ideas to life through clean code and have a good eye for creating appealing user interfaces.
 
 - 🎓 **Computer Science Graduate** - Modern Academy
@@ -44,13 +50,27 @@ I'm a passionate **Junior Frontend Developer** from Cairo, Egypt, specializing i
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 📊 GitHub Status
+
+<!-- <div align="center">
+  
+  ![Nariman's GitHub status](https://github-readme-stats.vercel.app/api?username=narimanawny78&show_icons=true&theme=tokyonight)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narimanawny78&layout=compact&theme=tokyonight)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=narimanawny78&theme=tokyonight)
+
+</div> -->
+
 <div align="center">
   &nbsp;&nbsp;&nbsp;![Nariman's GitHub stats](https://github-readme-stats.vercel.app/api?username=narimanawny78&show_icons=true&theme=tokyonight&cache_seconds=0)&nbsp;&nbsp;&nbsp;
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narimanawny78&layout=compact&theme=tokyonight&cache_seconds=0)&nbsp;&nbsp;&nbsp;
-  ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=narimanawny78&theme=tokyonight)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=narimanawny78&theme=tokyonight)
 </div>
 
 ## 🎯 What Makes Me Different
+
 - 💪 **Strong Frontend Foundation** - Proficient in modern frameworks like React and Angular with solid JavaScript/TypeScript skills
 - 🔄 **Full Stack Understanding** - Backend experience with Node.js and Laravel gives me a complete development perspective
 - 🎨 **Design-minded Developer** - I have a good eye for UI and enjoy creating interfaces that look great and work smoothly
@@ -58,21 +78,28 @@ I'm a passionate **Junior Frontend Developer** from Cairo, Egypt, specializing i
 - 📚 **Continuous Learner** - Always exploring new technologies and best practices in frontend development
 
 ## 🌟 Current Focus
+
 - 🔭 Deepening my expertise in **Angular** and modern frontend architecture
 - 🎨 Building projects that showcase both technical skills and creative UI design
 - 🤝 Open to contributing to **open-source projects**
 - 💼 Actively seeking **Frontend Developer** opportunities
 
 ## 📫 Let's Connect!
+
 <div align="center">
-  &nbsp;
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narimanawny@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nariman-awny/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narimanawny78)
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narimanawny@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nariman-awny/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narimanawny78)
+
 </div>
 
 ---
+
 <div align="center">
-  &nbsp; &nbsp;&nbsp;### 💭 *"Great UI is invisible - it just feels right"* &nbsp; &nbsp;&nbsp;
+  
+  ### 💭 *"Great UI is invisible - it just feels right"*
+  
   ![Profile Views](https://komarev.com/ghpvc/?username=narimanawny78&color=blueviolet&style=for-the-badge)
+  
 </div>
