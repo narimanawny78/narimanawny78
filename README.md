@@ -51,7 +51,7 @@ I'm a passionate **Junior Frontend Developer** from Cairo, Egypt, specializing i
 
 ## 📊 GitHub Status
 
-<!-- <div align="center">
+<div align="center">
   
   ![Nariman's GitHub status](https://github-readme-stats.vercel.app/api?username=narimanawny78&show_icons=true&theme=tokyonight)
   
@@ -59,15 +59,15 @@ I'm a passionate **Junior Frontend Developer** from Cairo, Egypt, specializing i
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=narimanawny78&theme=tokyonight)
 
-</div> -->
+</div> 
 
-<div align="center">
+<!-- <div align="center">
   &nbsp;&nbsp;&nbsp;![Nariman's GitHub stats](https://github-readme-stats.vercel.app/api?username=narimanawny78&show_icons=true&theme=tokyonight&cache_seconds=0)&nbsp;&nbsp;&nbsp;
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narimanawny78&layout=compact&theme=tokyonight&cache_seconds=0)&nbsp;&nbsp;&nbsp;
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=narimanawny78&theme=tokyonight)
-</div>
+</div> -->
 
 ## 🎯 What Makes Me Different
 
