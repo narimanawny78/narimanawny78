@@ -56,7 +56,9 @@ I'm a passionate **Junior Frontend Developer** from Cairo, Egypt, specializing i
   
   ![Nariman's GitHub status](https://github-readme-stats.vercel.app/api?username=narimanawny78&show_icons=true&theme=tokyonight)
   
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narimanawny78&layout=compact&theme=tokyonight)
+
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=narimanawny78&theme=tokyonight)
 
